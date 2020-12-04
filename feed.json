@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Projecttopia",
+    "description": "",
+    "home_page_url": "https://polyheartmony.github.io/projecttopia",
+    "feed_url": "https://polyheartmony.github.io/projecttopia/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Harmony"
+    },
+    "items": [
+        {
+            "id": "https://polyheartmony.github.io/projecttopia/current-media-projects.html",
+            "url": "https://polyheartmony.github.io/projecttopia/current-media-projects.html",
+            "title": "Current Media Projects",
+            "summary": "Here are the media projects I'm currently working on, and what they mean. MARVEL COMICS: The last 20-ish years of Marvel Comics have changed the face of superhero media, and media in general. Also, I just generally love Marvel in general. The Marvel project, currently,&hellip;",
+            "content_html": "<p>Here are the media projects I'm currently working on, and what they mean.</p>\n<p>MARVEL COMICS: The last 20-ish years of Marvel Comics have changed the face of superhero media, and media in general. Also, I just generally love Marvel in general. The Marvel project, currently, is to read just about every issue of Marvel Comics starting around the turn of the millennium.</p>\n<p>SHONEN JUMP: Midway thru 2020, I decided to catch up with all the currently running series in Weekly Shonen Jump. I'll post my thoughts on the series as I go thru them.</p>\n<p>HISTORY OF VIDEO GAMES: This one's a bit harder to explain, but basically: I missed most video games growing up, and there's a lot I want to get to. I put together a timeline of video games that starts with every game represented in the Super Smash Bros. series (which includes a lot of the classics in some way), and then expanded with a few other collections and oeuvres, like recent Bethesda and Eidos Interactive games, plus Rare Replay, recent mini consoles, etc. Thru this project, I will play as many of these games as I can. Anything I can't find at all, I'll at least try to track down some footage to get an idea.</p>",
+            "author": {
+                "name": "Harmony"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-03T18:38:20-06:00",
+            "date_modified": "2020-12-03T18:38:20-06:00"
+        },
+        {
+            "id": "https://polyheartmony.github.io/projecttopia/what-this-is.html",
+            "url": "https://polyheartmony.github.io/projecttopia/what-this-is.html",
+            "title": "What This Is",
+            "summary": "Hi. So. I keep starting these ridiculously long overly-comprehensive media projects. Reading every Marvel comic of the last 20 years, playing thousands of Nintendo games stretching over the entire history of the medium. And I have some thoughts about these things. Quite a lot of&hellip;",
+            "content_html": "<p>Hi. So.</p>\n<p>I keep starting these ridiculously long overly-comprehensive media projects. Reading every Marvel comic of the last 20 years, playing thousands of Nintendo games stretching over the entire history of the medium.</p>\n<p>And I have some thoughts about these things. Quite a lot of them, actually.</p>\n<p>This is a place where I'm keeping all of my thoughts. Partly for my own personal reference, but hey, if these are interesting to anybody to read, that's pretty cool too. Enjoy!</p>",
+            "author": {
+                "name": "Harmony"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-03T18:20:55-06:00",
+            "date_modified": "2020-12-03T18:20:55-06:00"
+        }
+    ]
+}
