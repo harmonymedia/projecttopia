@@ -3,7 +3,7 @@
     <title>Projecttopia</title>
     <link href="https://harmonymedia.github.io/projecttopia/feed.xml" rel="self" />
     <link href="https://harmonymedia.github.io/projecttopia" />
-    <updated>2020-12-05T20:30:17-06:00</updated>
+    <updated>2020-12-05T20:35:19-06:00</updated>
     <author>
         <name>Harmony</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://harmonymedia.github.io/projecttopia/retro-games-1979-1983.html"/>
         <id>https://harmonymedia.github.io/projecttopia/retro-games-1979-1983.html</id>
+            <category term="Retro Games"/>
 
-        <updated>2020-12-05T20:30:17-06:00</updated>
+        <updated>2020-12-05T20:35:00-06:00</updated>
             <summary>
                 <![CDATA[
                     1979 SHERIFF Arcade This is a two-joystick shooter where you play a sheriff in the middle of an open field, shooting at targets around you. It's sort of like Space Invaders, but with four directions to shoot at instead of two. It's a bit awkward&hellip;
@@ -125,8 +126,9 @@
         </author>
         <link href="https://harmonymedia.github.io/projecttopia/current-media-projects.html"/>
         <id>https://harmonymedia.github.io/projecttopia/current-media-projects.html</id>
+            <category term="Retro Games"/>
 
-        <updated>2020-12-05T20:25:29-06:00</updated>
+        <updated>2020-12-05T20:35:19-06:00</updated>
             <summary>
                 <![CDATA[
                     Here are the media projects I'm currently working on, and what they mean. MARVEL COMICS: The last 20-ish years of Marvel Comics have changed the face of superhero media, and media in general. Also, I just generally love Marvel in general. The Marvel project, currently,&hellip;
