@@ -3,7 +3,7 @@
     <title>Projecttopia</title>
     <link href="https://harmonymedia.github.io/projecttopia/feed.xml" rel="self" />
     <link href="https://harmonymedia.github.io/projecttopia" />
-    <updated>2020-12-05T20:41:19-06:00</updated>
+    <updated>2020-12-05T20:42:48-06:00</updated>
     <author>
         <name>Harmony</name>
     </author>
@@ -126,8 +126,11 @@
         </author>
         <link href="https://harmonymedia.github.io/projecttopia/what-this-is.html"/>
         <id>https://harmonymedia.github.io/projecttopia/what-this-is.html</id>
+            <category term="Shonen Jump"/>
+            <category term="Retro Games"/>
+            <category term="Marvel Comics"/>
 
-        <updated>2020-12-05T20:41:19-06:00</updated>
+        <updated>2020-12-05T20:42:48-06:00</updated>
             <summary>
                 <![CDATA[
                     Hi. So. I keep starting these ridiculously long overly-comprehensive media projects. Reading every Marvel comic of the last 20 years, playing thousands of Nintendo games stretching over the entire history of the medium. And I have some thoughts about these things. Quite a lot of&hellip;
