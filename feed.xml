@@ -3,7 +3,7 @@
     <title>Projecttopia</title>
     <link href="https://harmonymedia.github.io/projecttopia/feed.xml" rel="self" />
     <link href="https://harmonymedia.github.io/projecttopia" />
-    <updated>2022-01-08T00:01:16-06:00</updated>
+    <updated>2022-01-08T00:02:54-06:00</updated>
     <author>
         <name>Harmony</name>
     </author>
@@ -18,9 +18,22 @@
         <id>https://harmonymedia.github.io/projecttopia/best-and-worst-games-of-2021.html</id>
             <category term="Best of the Year"/>
 
-        <updated>2022-01-08T00:01:16-06:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-01-08T00:02:54-06:00</updated>
+            <summary>
+                <![CDATA[
+                    #1 This list was a tough, tough fight. First of all, even the expansive list of games I'll talk about here are a mere fraction of the games I played in 2021. Many were left unfinished, but I still found them interesting enough to talk&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><strong>#1</strong></p>
+<p>This list was a tough, tough fight. First of all, even the expansive list of games I'll talk about here are a mere fraction of the games I played in 2021. Many were left unfinished, but I still found them interesting enough to talk about.</p>
+<p>I thought I had locked in my game of the year within the first couple of months. Nearly three quarters into the year, it was unseated by what is now the number two slot. And more recently, the number two slot was unseated yet again by this, the most stunning game I played all year: the queer visual novel <strong>Heaven Will Be Mine.</strong></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://harmonymedia.github.io/projecttopia/media/posts/21/01hwbm_title.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://harmonymedia.github.io/projecttopia/media/posts/21/responsive/01hwbm_title-xs.PNG 300w ,https://harmonymedia.github.io/projecttopia/media/posts/21/responsive/01hwbm_title-sm.PNG 480w ,https://harmonymedia.github.io/projecttopia/media/posts/21/responsive/01hwbm_title-md.PNG 768w ,https://harmonymedia.github.io/projecttopia/media/posts/21/responsive/01hwbm_title-lg.PNG 1024w ,https://harmonymedia.github.io/projecttopia/media/posts/21/responsive/01hwbm_title-xl.PNG 1360w ,https://harmonymedia.github.io/projecttopia/media/posts/21/responsive/01hwbm_title-2xl.PNG 1600w"  alt="" width="1010" height="560"></figure>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Best Books of 2021</title>
