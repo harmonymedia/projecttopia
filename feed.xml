@@ -3,7 +3,7 @@
     <title>Projecttopia</title>
     <link href="https://harmonymedia.github.io/projecttopia/feed.xml" rel="self" />
     <link href="https://harmonymedia.github.io/projecttopia" />
-    <updated>2022-01-08T02:14:22-06:00</updated>
+    <updated>2022-01-08T02:21:57-06:00</updated>
     <author>
         <name>Harmony</name>
     </author>
@@ -18,9 +18,24 @@
         <id>https://harmonymedia.github.io/projecttopia/best-and-worst-games-of-2021-part-two.html</id>
             <category term="Best of the Year"/>
 
-        <updated>2022-01-08T02:14:22-06:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-01-08T02:21:57-06:00</updated>
+            <summary>
+                <![CDATA[
+                    RUNNERS-UP #11 Perhaps the coziest game that I continually returned to over the course of the year. Atelier Sophie: The Alchemist of the Mysterious Book DX is a new deluxe release of Atelier Sophie, a game first released in 2014 which kicked off a trilogy.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><strong>RUNNERS-UP</strong></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://harmonymedia.github.io/projecttopia/media/posts/22/runners-up01.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://harmonymedia.github.io/projecttopia/media/posts/22/responsive/runners-up01-xs.jpg 300w ,https://harmonymedia.github.io/projecttopia/media/posts/22/responsive/runners-up01-sm.jpg 480w ,https://harmonymedia.github.io/projecttopia/media/posts/22/responsive/runners-up01-md.jpg 768w ,https://harmonymedia.github.io/projecttopia/media/posts/22/responsive/runners-up01-lg.jpg 1024w ,https://harmonymedia.github.io/projecttopia/media/posts/22/responsive/runners-up01-xl.jpg 1360w ,https://harmonymedia.github.io/projecttopia/media/posts/22/responsive/runners-up01-2xl.jpg 1600w"  alt="" width="660" height="330"></figure>
+<p> </p>
+<p class="align-center"><strong>#11</strong></p>
+<p>Perhaps the coziest game that I continually returned to over the course of the year. <strong>Atelier Sophie: The Alchemist of the Mysterious Book DX</strong> is a new deluxe release of Atelier Sophie, a game first released in 2014 which kicked off a trilogy. You play as the young alchemist Sophie, and the gameplay moves between exploring the local village, trying out new recipes, and gathering ingredients from nearby locales and roaming monsters. It's a nice game to toy with and live in, with plenty of goals and sidequests to be explored at your own leisure. It's welcomingly comfy, and only narrowly missed out on being in my top ten games of the year.</p>
+<p> </p>
+<p class="align-center"><strong>#12</strong></p>
+<p>My favorite new Pokemon release of the year actually wasn't the remakes of gen 4 that released in the fall. Instead, I spent significantly more time with <strong>New Pokemon Snap</strong>, a Pokemon photography game that's a sequel to the original Pokemon Snap released for N64 in the late 90s. The game is calming, yet also incredibly beautiful, and there's tons of stuff to explore, find, and collect.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Best (&amp; Worst) Games of 2021: Part One</title>
@@ -159,7 +174,7 @@
         <id>https://harmonymedia.github.io/projecttopia/best-books-of-2021.html</id>
             <category term="Best of the Year"/>
 
-        <updated>2022-01-06T19:13:31-06:00</updated>
+        <updated>2022-01-08T02:19:01-06:00</updated>
             <summary>
                 <![CDATA[
                     A quick note on the methodology of this list. I read a lot of manga this year, but the majority of it was digitally via the Shonen Jump app; that manga will be covered in its own separate list. There were a few manga that&hellip;
@@ -224,7 +239,7 @@
         <id>https://harmonymedia.github.io/projecttopia/best-and-worst-tv-of-2021.html</id>
             <category term="Best of the Year"/>
 
-        <updated>2022-01-05T20:04:10-06:00</updated>
+        <updated>2022-01-08T02:20:45-06:00</updated>
             <summary>
                 <![CDATA[
                     #1 The battle for my favorite show of 2021 was a contentious one; I saw a lot of great TV this year. But in a way, the battle was won in the year's first month. Love, Chunibyo &amp; Other Delusions just affected me that much.
@@ -351,7 +366,7 @@
         <id>https://harmonymedia.github.io/projecttopia/best-movies-of-2021.html</id>
             <category term="Best of the Year"/>
 
-        <updated>2022-01-05T18:52:59-06:00</updated>
+        <updated>2022-01-08T02:20:51-06:00</updated>
             <summary>
                 <![CDATA[
                     2021. What a year, huh? I know for a lot of people, this was 2020 Part Two. In some ways, it also was for me. But when I look back at the media I enjoyed over the last couple years, I do find a significant&hellip;
